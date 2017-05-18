@@ -811,7 +811,8 @@ Footer
 .entry-content {
   font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif","Microsoft YaHei";
   line-height: 1.7;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  color: #3a3a3a; }
   .entry-content ol,
   .entry-content ul {
     margin: 0 0 1.5em 3em; }
